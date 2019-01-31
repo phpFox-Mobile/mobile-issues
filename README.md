@@ -1,6 +1,6 @@
 # phpFox Mobile Issue Tracker
 
-Use this [issue tracker](https://github.com/phpFox-Mobile/mobile-issues/issues) to report any problems you encounter with phpFox Mobile.
+Use this [issue tracker](https://github.com/phpfox-mobile/mobile-issues/issues) to report any problems you encounter with phpFox Mobile.
 
 Please search the bug tracker for your issue before posting, in order to avoid duplicating issues.
 
@@ -30,5 +30,5 @@ When submitting a bug report, please post the following in order for us to consi
 
 **No feature requests in this tracker**
 
-If you have a feature request, please post it [here](https://github.com/phpFox-Mobile/mobile-feature-requests/issues).
+If you have a feature request, please post it [here](https://github.com/phpfox-mobile/mobile-feature-requests/issues).
 
